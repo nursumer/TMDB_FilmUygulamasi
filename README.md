@@ -1,6 +1,6 @@
 # TMDB_FilmUygulamasi
 Api kullanarak verileri database'e aktardım.
-Uygulama çalıştığında bütün filmleri ana ekranda görüyoruz.
-Film Id ile filtreleme yapabiliyoruz.
-Mail At komutu ile bilgisayarımızda mail açılıyor ve film tavsiyesinde bulunabiliyoruz.
-Yorum yapma özelliği ile istenilen filme puan yapılıp yorum eklenebiliyor ve bunu database üzerinde işliyoruz.
+Uygulama çalıştığında bütün filmler ana ekranda görüntülenir.
+Film Id ile filtreleme yapılabilir.
+Mail At komutu ile mail gönderebilir bu sayede film tavsiyesinde bulunabilirsiniz.
+Yorum yapma özelliği ile istenilen filmi puanlayıp yorum ekleyebilirsiniz. Yorumlar database'e aktarılır.
